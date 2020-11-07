@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "ThéoBlog"
+theme = "ananke"
+
+[params]
+ background_color_class = "bg-washed-red"
+ featured_image = "/images/bg_abstract.jpg"
