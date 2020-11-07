@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://giganttheo.github.io/"
 languageCode = "en-us"
-title = "ThéoBlog"
+title = "my blog"
 theme = "ananke"
 
 [params]
